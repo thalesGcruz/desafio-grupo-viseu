@@ -20,7 +20,7 @@ Este projeto foi desenvolvido com **React** para resolver o desafio de consulta 
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/desafio-grupo-viseu.git
+    git clone https://github.com/thalesGcruz/desafio-grupo-viseu.git
     cd desafio-grupo-viseu
 
 2. Instale as dependências do projeto:
